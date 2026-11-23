@@ -1,58 +1,53 @@
+[English](README.md) · **Español**
+
 # ¡Hola! Soy Germán Muñoz 👋
-### Backend Engineer & Software Architect 🏗️
 
-Desarrollador backend senior especializado en el ecosistema de **Java y Spring Boot**, enfocado en el diseño de arquitecturas de software robustas, escalables y mantenibles. Experto en la implementación de **Arquitectura Hexagonal (Domain-Driven Design)** y ecosistemas de **Microservicios**. Cuento con una sólida experiencia desplegando y gestionando infraestructura en **Google Cloud Platform (GCP)**.
+### Backend Engineer & Software Architect
 
-Especialista en aplicar **Spec-Driven Development (SDD)** para estructurar sistemas complejos, incluyendo el diseño y construcción de **Agentes de IA** basados en contratos de especificación claros, lo que garantiza integraciones deterministas y flujos de trabajo inteligentes optimizados.
+Desarrollador backend senior en el ecosistema **Java y Spring Boot**. Diseño sistemas robustos, escalables y mantenibles con **Arquitectura Hexagonal**, **Domain-Driven Design** y **microservicios**, y los despliego y opero en **Google Cloud Platform**.
+
+Aplico **Spec-Driven Development (SDD)** para estructurar sistemas complejos, incluidos **flujos de agentes de IA** gobernados por especificaciones explícitas, de modo que las integraciones sean predecibles y cada paso se pueda revisar.
+
+---
+
+## 📁 Proyecto destacado
+
+### [ai-dev](https://github.com/germanmunozs/ai-dev)
+
+Una CLI en Go que guía un flujo de Spec-Driven Development con agentes de programación (Claude Code y Codex CLI), manteniendo a la persona al mando de cada decisión.
+
+- **Qué hace:** comprueba el entorno, evalúa el estado del ciclo de vida de cada feature, recomienda el siguiente paso SDD y el agente de cada rol, ejecuta agentes sin elevar sus permisos y registra las aprobaciones humanas explícitas. Incluye un cockpit de terminal manejado con el teclado (`ai-dev tui`).
+- **Cómo está hecho:** cada una de sus 12 features pasó por especificación, plan, tareas, implementación y revisión independiente con [Spec Kit](https://github.com/github/spec-kit).
+- **Calidad y cadena de suministro:** CI en macOS y Linux con detector de carreras, fuzzing, govulncheck y staticcheck; actions fijadas por SHA; archivos de release reproducibles con checksums y procedencia SLSA firmada.
+- **Stack:** Go, GitHub Actions, Bubble Tea.
 
 ---
 
-## 🛠️ Tecnologías y Competencias Core
+## 🛠️ Tecnologías principales
 
-### 🔥 Backend & Arquitectura (Especialidad Principal)
-* **Lenguajes & Frameworks:** Java, Spring Boot, Spring Cloud, Go (desarrollo general).
-* **Patrones & Arquitectura:** Arquitectura Hexagonal, Microservicios, Event-Driven Architecture.
-* **Metodología de Diseño:** Spec-Driven Development (SDD) / OpenAPI / Swagger.
+### Backend y arquitectura
+- **Lenguajes y frameworks:** Java, Spring Boot, Spring Cloud, Go.
+- **Arquitectura:** Arquitectura Hexagonal, Domain-Driven Design, microservicios, arquitectura orientada a eventos.
+- **Diseño de APIs:** Spec-Driven Development, OpenAPI / Swagger.
 
-### 🤖 AI Engineering & Agentes
-* **Desarrollo de Agentes:** Diseño y construcción de agentes de IA guiados por especificaciones (Spec-Driven).
-* **Herramientas de IA:** Claude Code, Codex (Optimización de flujos y generación de código eficiente).
+### Ingeniería de IA
+- **Flujos de agentes:** agentes de IA guiados por especificaciones, con contratos explícitos y puntos de aprobación humana.
+- **Herramientas:** Claude Code, Codex.
 
-### ☁️ Cloud & DevOps (Google Cloud Platform)
-* **Cómputo & Orquestación:** Google Kubernetes Engine (GKE), Cloud Run.
-* **Mensajería & Eventos:** GCP Pub/Sub.
-* **Bases de Datos & Almacenamiento:** Cloud SQL (PostgreSQL/MySQL), Firestore (NoSQL), Cloud Buckets.
-* **Seguridad & API Management:** Cloud Endpoints, Secret Manager.
+### Cloud (Google Cloud Platform)
+- **Cómputo y orquestación:** Google Kubernetes Engine (GKE), Cloud Run.
+- **Mensajería:** Pub/Sub.
+- **Datos y almacenamiento:** Cloud SQL (PostgreSQL, MySQL), Firestore, Cloud Storage.
+- **Seguridad y APIs:** Cloud Endpoints, Secret Manager.
 
-### 🚀 En Aprendizaje Activo (Front-End & Mobile)
-* **Web:** React, JavaScript / TypeScript.
-* **Mobile iOS:** Swift, SwiftUI, Xcode.
-* **Mobile Android:** Kotlin, Jetpack Compose, Android Studio.
-<!--
----
-
-## 📁 Proyectos Destacados
-
-### 1. [Nombre de tu Proyecto de Agentes de IA](Enlace al repositorio)
-* **Descripción:** Sistema de agentes autónomos desarrollado bajo **Spec-Driven Development**, donde las interacciones de los agentes están estrictamente gobernadas por contratos de API predefinidos.
-* **Stack:** Java / Go, AI Models, OpenAPI, GCP Cloud Run.
-* **Destacable:** Flujo determinista y validación en tiempo de ejecución del comportamiento del agente frente a la especificación técnica.
-
-### 2. [Nombre de tu Proyecto Core Backend](Enlace al repositorio)
-* **Descripción:** Microservicio/Sistema diseñado bajo **Arquitectura Hexagonal** que resuelve [explicar problema de negocio brevemente].
-* **Stack:** Java, Spring Boot, GCP Pub/Sub, Cloud SQL.
-
----
--->
-## 📈 Mis Estadísticas de GitHub
-
-<p align="center">
-  <img src="https://vercel.app" alt="Estadísticas de GitHub" />
-  <img src="https://vercel.app" alt="Lenguajes más usados" />
-</p>
+### Aprendiendo ahora
+- **Web:** React, TypeScript.
+- **iOS:** Swift, SwiftUI.
+- **Android:** Kotlin, Jetpack Compose.
 
 ---
 
 ## 📫 Conectemos
-* **LinkedIn:** [linkedin.com/in/german-munoz-soto](https://www.linkedin.com/in/german-munoz-soto/)
-* **Email:** german.munoz.soto@email.com
+
+- **LinkedIn:** [linkedin.com/in/german-munoz-soto](https://www.linkedin.com/in/german-munoz-soto/)
+- **Email:** [german.munoz.soto@gmail.com](mailto:german.munoz.soto@gmail.com)
