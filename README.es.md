@@ -54,5 +54,5 @@ Especialista en aplicar **Spec-Driven Development (SDD)** para estructurar siste
 ---
 
 ## 📫 Conectemos
-* **LinkedIn:** [://linkedin.com](https://www.linkedin.com/in/german-munoz-soto/)
+* **LinkedIn:** [linkedin.com/in/german-munoz-soto](https://www.linkedin.com/in/german-munoz-soto/)
 * **Email:** german.munoz.soto@email.com
